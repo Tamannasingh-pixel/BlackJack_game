@@ -1,4 +1,3 @@
-# BlackJack_game
 # Blackjack Game in Python
 
 This repository contains a simple Blackjack game implemented in Python. The game uses dictionaries to represent cards and implements game logic using if statements, functions, and loops.
